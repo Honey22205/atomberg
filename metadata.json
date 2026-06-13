@@ -1,0 +1,6 @@
+{
+  "name": "Video Calling Platform",
+  "description": "A production-ready real-time video calling platform for customer support with call recording, in-call chat, reconnect handling, and an admin operations dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
